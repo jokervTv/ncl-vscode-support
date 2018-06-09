@@ -1,0 +1,26 @@
+{
+    "name": "ncl",
+    "displayName": "ncl",
+    "description": "NCL for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "jokervTv",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "ncl",
+            "aliases": ["ncl", "ncl"],
+            "extensions": [".ncl",".NCL"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "ncl",
+            "scopeName": "source.ncl",
+            "path": "./syntaxes/ncl.tmLanguage.json"
+        }]
+    }
+}
