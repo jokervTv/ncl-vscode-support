@@ -1,15 +1,21 @@
 {
     "name": "ncl",
-    "displayName": "ncl",
-    "description": "NCL for Visual Studio Code",
+    "displayName": "NCL",
+    "description": "NCL (NCAR Command Language) for Visual Studio Code",
     "version": "0.0.1",
-    "publisher": "jokervTv",
+    "publisher": "yueyueBird",
     "engines": {
         "vscode": "^1.24.0"
     },
     "categories": [
         "Programming Languages"
     ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE",
     "contributes": {
         "languages": [{
             "id": "ncl",
@@ -20,7 +26,15 @@
         "grammars": [{
             "language": "ncl",
             "scopeName": "source.ncl",
-            "path": "./syntaxes/ncl.tmLanguage.json"
+            "path": "./syntaxes/ncl.tmLanguage"
         }]
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/jokervTv/ncl-vscode-support/issues",
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jokervTv/ncl-vscode-support.git"
+    },
+    "homepage": "https://github.com/jokervTv/ncl-vscode-support"
 }
