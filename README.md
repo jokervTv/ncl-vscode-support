@@ -7,7 +7,7 @@ NCL (NCAR Command Language) support for Visual Studio Code
 Now it only supports syntax highlighting.</br>
 ![Syntax Highlighting](images/SyntaxHighlighting.png "Syntax Highlighting")
 
-Show Code Completion Proposals will be realized in the future.
+Showing code completion croposals will be realized in the future.
 
 ## Requirements
 
