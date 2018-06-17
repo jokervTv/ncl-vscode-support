@@ -4,10 +4,15 @@ NCL (NCAR Command Language) support for Visual Studio Code
 
 ## Features
 
-Now it only supports syntax highlighting.</br>
+syntax highlighting.</br>
+
 ![Syntax Highlighting](images/SyntaxHighlighting.png "Syntax Highlighting")
 
-Showing code completion croposals will be realized in the future.
+Code snippets.</br>
+
+![CodeSnippets](images/CodeSnippets.gif "CodeSnippets")
+
+Show code completion proposals will be realized in the future.
 
 ## Requirements
 
@@ -22,6 +27,10 @@ Nothing
 Not yet, if you find any, please tell me.
 
 ## Release Notes
+
+### 1.1.0
+
+Add some code snippets
 
 ### 1.0.0
 
