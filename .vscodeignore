@@ -2,6 +2,6 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
-*.sublime-snippet
+snippets/*.sublime-snippet
 *.c
-*.sublime-completions
+snippets/*.sublime-completions
