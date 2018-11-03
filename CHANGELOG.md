@@ -2,9 +2,16 @@
 
 ## [Unreleased]
 
+code highlighting
+
+1.4.0 - Adapt to the new version
+
+some new snippets of version 6.5.0, almost about functions.
+And add block comment.
+
 1.3.0 - Add more snippets
 
-about 1257
+about 1257.
 
 1.2.0 - Nothing
 
@@ -20,6 +27,6 @@ res_axis_reverse,
 res_contour_explicit_levels,
 res_contour_manual_levels,
 res_xy_grid_lines,
-res_xy_log_scale
+res_xy_log_scale.
 
 1.0.0 - Initial release

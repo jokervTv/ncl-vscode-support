@@ -27,6 +27,11 @@ Not yet, if you find any, please tell me.
 
 ## Release Notes
 
+### 1.4.0
+
+some new snippets of version 6.5.0, almost about functions.
+And add block comment.
+
 ### 1.3.0
 
 more snippets, about 1256.
