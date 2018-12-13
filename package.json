@@ -8,14 +8,22 @@
         "vscode": "^1.20.0"
     },
     "categories": [
-        "Programming Languages"
+        "Programming Languages",
+        "Snippets"
     ],
     "icon": "images/icon.png",
+    "keywords":[
+        "ncl",
+        "NCL"
+    ],
     "galleryBanner": {
         "color": "#0085c8",
         "theme": "dark"
     },
     "license": "SEE LICENSE IN LICENSE",
+    "activationEvents": [
+		"onLanguage:ncl"
+	],
     "contributes": {
         "languages": [{
             "id": "ncl",
@@ -34,7 +42,8 @@
         }]
     },
     "bugs": {
-        "url": "https://github.com/jokervTv/ncl-vscode-support/issues"
+        "url": "https://github.com/jokervTv/ncl-vscode-support/issues",
+        "email": "zhangyp6603@outlook.com"
     },
     "repository": {
         "type": "git",
