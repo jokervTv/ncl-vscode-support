@@ -25,29 +25,6 @@ Nothing
 
 Not yet, if you find any, please tell me.
 
-## Release Notes
-
-### 1.4.0
-
-some new snippets of version 6.5.0, almost about functions.
-And add block comment.
-
-### 1.3.0
-
-more snippets, about 1256.
-
-### 1.2.0
-
-Nothing
-
-### 1.1.0
-
-Add some code snippets
-
-### 1.0.0
-
-Initial release
-
 -----------------------------------------------------------------------------------------------------------
 
 **Enjoy!**
