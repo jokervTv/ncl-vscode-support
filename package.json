@@ -1,54 +1,62 @@
 {
-    "name": "ncl",
-    "displayName": "NCL",
-    "description": "NCL (NCAR Command Language) for Visual Studio Code",
-    "version": "1.4.0",
-    "publisher": "yueyueBird",
-    "engines": {
-        "vscode": "^1.20.0"
-    },
-    "categories": [
-        "Programming Languages",
-        "Snippets"
-    ],
-    "icon": "images/icon.png",
-    "keywords":[
-        "ncl",
-        "NCL"
-    ],
-    "galleryBanner": {
-        "color": "#0085c8",
-        "theme": "dark"
-    },
-    "license": "SEE LICENSE IN LICENSE",
-    "activationEvents": [
-		"onLanguage:ncl"
+	"name": "ncl",
+	"displayName": "NCL",
+	"description": "NCL (NCAR Command Language) for Visual Studio Code",
+	"version": "1.5.1",
+	"publisher": "yueyueBird",
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"categories": [
+		"Programming Languages"
 	],
-    "contributes": {
-        "languages": [{
-            "id": "ncl",
-            "aliases": ["ncl", "NCL"],
-            "extensions": [".ncl",".NCL"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "ncl",
-            "scopeName": "source.ncl",
-            "path": "./syntaxes/ncl.tmLanguage"
-        }],
-        "snippets": [{
-            "language": "ncl",
-            "path": "./snippets/snippets.json"
-        }]
-    },
-    "bugs": {
-        "url": "https://github.com/jokervTv/ncl-vscode-support/issues",
-        "email": "zhangyp6603@outlook.com"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jokervTv/ncl-vscode-support.git"
-    },
-    "homepage": "https://github.com/jokervTv/ncl-vscode-support"
-
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#0085c8",
+		"theme": "dark"
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"contributes": {
+		"languages": [
+			{
+				"id": "ncl",
+				"aliases": [
+					"ncl",
+					"NCL"
+				],
+				"extensions": [
+					".ncl",
+					".NCL"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "ncl",
+				"scopeName": "source.ncl",
+				"path": "./syntaxes/ncl.tmLanguage"
+			}
+		],
+		"snippets": [
+			{
+				"language": "ncl",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://github.com/jokervTv/ncl-vscode-support/issues",
+		"email": "zhangyp6603@outlook.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jokervTv/ncl-vscode-support.git"
+	},
+	"homepage": "https://github.com/jokervTv/ncl-vscode-support",
+	"__metadata": {
+		"id": "5a1a3983-c4a0-4d57-a188-e34383bce223",
+		"publisherId": "c287c19f-cc5e-421a-99e3-4c466895c6f8",
+		"publisherDisplayName": "Yongpeng Zhang"
+	}
 }
