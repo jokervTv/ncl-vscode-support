@@ -1,4 +1,25 @@
 {
+	"Module documentation header": {
+        "prefix": "modoc" ,
+        "body": [ "!------------------------------------------------------------------------------",
+                  "! ${1:Institution}, ${2:Affiliation}",
+                  "!------------------------------------------------------------------------------",
+                  "!",
+                  "! MODULE: ${3: Module name}",
+                  "!",
+                  "!> @author",
+                  "!> ${4:Author Name}}",
+                  "!",
+                  "! DESCRIPTION: ",
+                  "!> ${5: Short module description}",
+                  "!",
+                  "! REVISION HISTORY:",
+                  "! dd Mmm yyyy - Initial Version",
+                  "! TODO_dd_mmm_yyyy - TODO_describe_appropriate_changes - TODO_name",
+                  "!------------------------------------------------------------------------------"
+        ],
+        "description": "Add module documentation header"
+    },
 	"beg": {
 		"prefix": "beg",
 		"body": "\nbegin\n\n\t${1:; begin your script}\n\nend\n",
