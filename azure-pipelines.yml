@@ -17,6 +17,6 @@ steps:
 
 - script: |
     npm install vsce -g --save vsce
-    npm install -g vscode-languageclient
+    npm i vscode-languageclient
     vsce package
   displayName: 'npm install vsce and vsce package'
