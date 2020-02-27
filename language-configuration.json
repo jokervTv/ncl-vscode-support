@@ -2,7 +2,7 @@
     "comments": {
         // symbol used for single line comment. Remove this entry if your language does not support line comments
         "lineComment": ";",
-        "blockComment": [ "/;", ";/" ]
+        "blockComment": ["/;", ";/"]
     },
     // symbols used as brackets
     "brackets": [
@@ -19,7 +19,8 @@
         ["\"", "\""],
         ["'", "'"],
         ["/;", ";/"],
-        ["<", ">"]
+        ["<", ">"],
+        ["`", "`"]
     ],
     // symbols that that can be used to surround a selection
     "surroundingPairs": [
@@ -28,7 +29,14 @@
         ["(", ")"],
         ["\"", "\""],
         ["'", "'"],
-        ["<", ">"]
-    ]
-    
+        ["<", ">"],
+        ["`", "`"]
+    ],
+    "autoCloseBefore": ";:.,=}])>` \n\t",
+    "folding": {
+        "markers": {
+            "start": "^\\s*//\\s*#?region\\b",
+            "end": "^\\s*//\\s*#?endregion\\b"
+        }
+    }
 }
