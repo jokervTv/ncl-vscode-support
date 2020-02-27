@@ -2,7 +2,7 @@
 	"name": "ncl",
 	"displayName": "NCL",
 	"description": "NCL (NCAR Command Language) for Visual Studio Code",
-	"version": "1.5.1",
+	"version": "1.6.0",
 	"publisher": "yueyueBird",
 	"engines": {
 		"vscode": "^1.20.0"
