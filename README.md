@@ -1,25 +1,31 @@
-# ncl-vscode-support README
+# ncl-vscode-support
 
 NCL (NCAR Command Language) support for Visual Studio Code
 
+## Note
+
+- To summarize the status of NCL, the project is "**feature frozen**".
+- NCAR has made the decision to adopt Python as the scripting language platform of choice for future development of analysis and visualization tools.
+
+more information [here](http://www.ncl.ucar.edu/Document/Pivot_to_Python/)
+
 ## Features
 
-Syntax Highlighting.</br>
-![Syntax Highlighting](images/SyntaxHighlighting.png "Syntax Highlighting")
+### Syntax Highlighting
 
-Code Snippets.</br>
-![Code Snippets](images/CodeSnippets.gif "Code Snippets")
+![Syntax Highlighting](./images/SyntaxHighlighting.png "Syntax Highlighting")
 
-Code Completion Proposals.</br>
-![Code Completion Proposals](images/CodeCompletion.gif "Code Completion Proposals")
+### Code Snippets
 
-## Requirements
+![Code Snippets](./images/CodeSnippets.gif "Code Snippets")
 
-Nothing
+### Code Completion Proposals
 
-## Extension Settings
+![Code Completion Proposals](./images/CodeCompletion.gif "Code Completion Proposals")
 
-Nothing
+## Todo
+
+- [ ] syntax highlighting
 
 ## Known Issues
 
@@ -28,5 +34,3 @@ Not yet, if you find any, please tell me.
 -----------------------------------------------------------------------------------------------------------
 
 **Enjoy!**
-
-If you wanna get any new functions or have some suggestions, please tell me.
