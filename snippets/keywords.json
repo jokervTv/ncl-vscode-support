@@ -1,0 +1,232 @@
+{
+    "Module documentation header": {
+        "prefix": "modoc",
+        "body": ["!------------------------------------------------------------------------------",
+            "! ${1:Institution}, ${2:Affiliation}",
+            "!------------------------------------------------------------------------------",
+            "!",
+            "! MODULE: ${3: Module name}",
+            "!",
+            "!> @author",
+            "!> ${4:Author Name}",
+            "!",
+            "! DESCRIPTION:",
+            "!> ${5: Short module description}",
+            "!",
+            "! REVISION HISTORY:",
+            "! dd Mmm yyyy - Initial Version",
+            "! TODO_dd_mmm_yyyy - TODO_describe_appropriate_changes - TODO_name",
+            "!------------------------------------------------------------------------------"
+        ],
+        "description": "Add module documentation header"
+    },
+    "beg": {
+        "prefix": "beg",
+        "body": "begin\n\n\t${1:; begin your script}\n\nend\n",
+        "description": "Begin NCL script block"
+    },
+    "do": {
+        "prefix": "do",
+        "body": "do ${1:i} = ${2:0}, ${3:n}\n\t${4:; write loop content}\nend do\n",
+        "description": "NCL do loop"
+    },
+    "if": {
+        "prefix": "if",
+        "body": "if (${1:conditions}) then\n\t${2:; write branch}\nend if\n",
+        "description": "NCL if condition"
+    },
+    "ifel": {
+        "prefix": "ifelse",
+        "body": "if (${1:conditions}) then\n\t${2:; write branch}\nelse\n\t${3:; write else branch}\nend if\n",
+        "description": "NCL if-else condition"
+    },
+    "elif": {
+        "prefix": "elseif",
+        "body": "else if (${1:conditions}) then \n\t${2:; write branch}"
+    },
+    "load": {
+        "prefix": "load",
+        "body": "load \"\\$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl\"\nload \"\\$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl\"\nload \"\\$NCARG_ROOT/lib/ncarg/nclscripts/csm/contributed.ncl\"\n",
+        "description": "Load NCL library scripts"
+    },
+    "setvalues ": {
+        "prefix": "setvalues",
+        "body": "setvalues ${1:obj_reference}\n\t${2:;resource_string :  value_expression}\nend setvalues\n",
+        "description": "setvalues"
+    },
+    "getvalues ": {
+        "prefix": "getvalues",
+        "body": "getvalues ${1:obj_reference}\n\t${2:;resource_string :  value_expression}\nend getvalues\n",
+        "description": "getvalues"
+    },
+    "dowhile": {
+        "prefix": ["do", "do-while"],
+        "body": "do (${1:conditions})\n\t${2:; write loop content}\nend do\n",
+        "description": "NCL do while loop"
+    },
+    "external": {
+        "prefix": "external",
+        "body": "external"
+    },
+    "function": {
+        "prefix": "func",
+        "body": "function ${1:function_name} (${2:declaration_list})",
+        "description": "Function and procedure definitions"
+    },
+    "record": {
+        "prefix": "record",
+        "body": "record"
+    },
+    "local": {
+        "prefix": "local",
+        "body": "local"
+    },
+    "break": {
+        "prefix": "break",
+        "body": "break"
+    },
+    "byte": {
+        "prefix": "byte",
+        "body": "byte"
+    },
+    "character": {
+        "prefix": "character",
+        "body": "character"
+    },
+    "continue": {
+        "prefix": "continue",
+        "body": "continue"
+    },
+    "create": {
+        "prefix": "create",
+        "body": "create"
+    },
+    "defaultapp": {
+        "prefix": "defaultapp",
+        "body": "defaultapp"
+    },
+    "double": {
+        "prefix": "double",
+        "body": "double"
+    },
+    "end": {
+        "prefix": "end",
+        "body": "end"
+    },
+    "enumeric": {
+        "prefix": "enumeric",
+        "body": "enumeric"
+    },
+    "False": {
+        "prefix": "False",
+        "body": "False"
+    },
+    "file": {
+        "prefix": "file",
+        "body": "file"
+    },
+    "float": {
+        "prefix": "float",
+        "body": "float"
+    },
+    "graphic": {
+        "prefix": "graphic",
+        "body": "graphic"
+    },
+    "group": {
+        "prefix": "group",
+        "body": "group"
+    },
+    "integer": {
+        "prefix": "integer",
+        "body": "integer"
+    },
+    "int64": {
+        "prefix": "int64",
+        "body": "int64"
+    },
+    "list": {
+        "prefix": "list",
+        "body": "list"
+    },
+    "logical": {
+        "prefix": "logical",
+        "body": "logical"
+    },
+    "long": {
+        "prefix": "long",
+        "body": "long"
+    },
+    "numeric": {
+        "prefix": "numeric",
+        "body": "numeric"
+    },
+    "noparent": {
+        "prefix": "noparent",
+        "body": "noparent"
+    },
+    "procedure": {
+        "prefix": "procedure",
+        "body": "procedure"
+    },
+    "quit": {
+        "prefix": "quit",
+        "body": "quit"
+    },
+    "QUIT": {
+        "prefix": "QUIT",
+        "body": "QUIT"
+    },
+    "return": {
+        "prefix": "return",
+        "body": "return"
+    },
+    "Quit": {
+        "prefix": "Quit",
+        "body": "Quit"
+    },
+    "short": {
+        "prefix": "short",
+        "body": "short"
+    },
+    "snumeric": {
+        "prefix": "snumeric",
+        "body": "snumeric"
+    },
+    "stop": {
+        "prefix": "stop",
+        "body": "stop"
+    },
+    "string": {
+        "prefix": "string",
+        "body": "string"
+    },
+    "then": {
+        "prefix": "then",
+        "body": "then"
+    },
+    "True": {
+        "prefix": "True",
+        "body": "True"
+    },
+    "ubyte": {
+        "prefix": "ubyte",
+        "body": "ubyte"
+    },
+    "uint": {
+        "prefix": "uint",
+        "body": "uint"
+    },
+    "uint64": {
+        "prefix": "uint64",
+        "body": "uint64"
+    },
+    "ulong": {
+        "prefix": "ulong",
+        "body": "ulong"
+    },
+    "ushort": {
+        "prefix": "ushort",
+        "body": "ushort"
+    }
+}

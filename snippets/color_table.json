@@ -1,0 +1,1352 @@
+{
+    "amwg256": {
+        "prefix": "amwg256",
+        "body": "amwg256",
+        "description": "color table"
+    },
+    "BkBlAqGrYeOrReViWh200": {
+        "prefix": "BkBlAqGrYeOrReViWh200",
+        "body": "BkBlAqGrYeOrReViWh200",
+        "description": "color table"
+    },
+    "BlAqGrYeOrRe": {
+        "prefix": "BlAqGrYeOrRe",
+        "body": "BlAqGrYeOrRe",
+        "description": "color table"
+    },
+    "BlAqGrYeOrReVi200": {
+        "prefix": "BlAqGrYeOrReVi200",
+        "body": "BlAqGrYeOrReVi200",
+        "description": "color table"
+    },
+    "BlGrYeOrReVi200": {
+        "prefix": "BlGrYeOrReVi200",
+        "body": "BlGrYeOrReVi200",
+        "description": "color table"
+    },
+    "example": {
+        "prefix": "example",
+        "body": "example",
+        "description": "color table"
+    },
+    "GMT_seis": {
+        "prefix": "GMT_seis",
+        "body": "GMT_seis",
+        "description": "color table"
+    },
+    "GMT_wysiwygcont": {
+        "prefix": "GMT_wysiwygcont",
+        "body": "GMT_wysiwygcont",
+        "description": "color table"
+    },
+    "matlab_hsv": {
+        "prefix": "matlab_hsv",
+        "body": "matlab_hsv",
+        "description": "color table"
+    },
+    "matlab_jet": {
+        "prefix": "matlab_jet",
+        "body": "matlab_jet",
+        "description": "color table"
+    },
+    "MPL_gist_ncar": {
+        "prefix": "MPL_gist_ncar",
+        "body": "MPL_gist_ncar",
+        "description": "color table"
+    },
+    "MPL_gist_rainbow": {
+        "prefix": "MPL_gist_rainbow",
+        "body": "MPL_gist_rainbow",
+        "description": "color table"
+    },
+    "MPL_hsv": {
+        "prefix": "MPL_hsv",
+        "body": "MPL_hsv",
+        "description": "color table"
+    },
+    "MPL_jet": {
+        "prefix": "MPL_jet",
+        "body": "MPL_jet",
+        "description": "color table"
+    },
+    "MPL_rainbow": {
+        "prefix": "MPL_rainbow",
+        "body": "MPL_rainbow",
+        "description": "color table"
+    },
+    "MPL_Spectral": {
+        "prefix": "MPL_Spectral",
+        "body": "MPL_Spectral",
+        "description": "color table"
+    },
+    "NCV_bright": {
+        "prefix": "NCV_bright",
+        "body": "NCV_bright",
+        "description": "color table"
+    },
+    "NCV_jaisnd": {
+        "prefix": "NCV_jaisnd",
+        "body": "NCV_jaisnd",
+        "description": "color table"
+    },
+    "NCV_jet": {
+        "prefix": "NCV_jet",
+        "body": "NCV_jet",
+        "description": "color table"
+    },
+    "NCV_rainbow2": {
+        "prefix": "NCV_rainbow2",
+        "body": "NCV_rainbow2",
+        "description": "color table"
+    },
+    "ncview_default": {
+        "prefix": "ncview_default",
+        "body": "ncview_default",
+        "description": "color table"
+    },
+    "nice_gfdl": {
+        "prefix": "nice_gfdl",
+        "body": "nice_gfdl",
+        "description": "color table"
+    },
+    "rainbow": {
+        "prefix": "rainbow",
+        "body": "rainbow",
+        "description": "color table"
+    },
+    "rainbow+gray": {
+        "prefix": "rainbow+gray",
+        "body": "rainbow+gray",
+        "description": "color table"
+    },
+    "rainbow+white": {
+        "prefix": "rainbow+white",
+        "body": "rainbow+white",
+        "description": "color table"
+    },
+    "rainbow+white+gray": {
+        "prefix": "rainbow+white+gray",
+        "body": "rainbow+white+gray",
+        "description": "color table"
+    },
+    "tbr_240-300": {
+        "prefix": "tbr_240-300",
+        "body": "tbr_240-300",
+        "description": "color table"
+    },
+    "tbr_stdev_0-30": {
+        "prefix": "tbr_stdev_0-30",
+        "body": "tbr_stdev_0-30",
+        "description": "color table"
+    },
+    "tbr_var_0-500": {
+        "prefix": "tbr_var_0-500",
+        "body": "tbr_var_0-500",
+        "description": "color table"
+    },
+    "tbrAvg1": {
+        "prefix": "tbrAvg1",
+        "body": "tbrAvg1",
+        "description": "color table"
+    },
+    "tbrStd1": {
+        "prefix": "tbrStd1",
+        "body": "tbrStd1",
+        "description": "color table"
+    },
+    "tbrVar1": {
+        "prefix": "tbrVar1",
+        "body": "tbrVar1",
+        "description": "color table"
+    },
+    "temp1": {
+        "prefix": "temp1",
+        "body": "temp1",
+        "description": "color table"
+    },
+    "testcmap": {
+        "prefix": "testcmap",
+        "body": "testcmap",
+        "description": "color table"
+    },
+    "ViBlGrWhYeOrRe": {
+        "prefix": "ViBlGrWhYeOrRe",
+        "body": "ViBlGrWhYeOrRe",
+        "description": "color table"
+    },
+    "wh-bl-gr-ye-re": {
+        "prefix": "wh-bl-gr-ye-re",
+        "body": "wh-bl-gr-ye-re",
+        "description": "color table"
+    },
+    "WhBlGrYeRe": {
+        "prefix": "WhBlGrYeRe",
+        "body": "WhBlGrYeRe",
+        "description": "color table"
+    },
+    "WhiteBlueGreenYellowRed": {
+        "prefix": "WhiteBlueGreenYellowRed",
+        "body": "WhiteBlueGreenYellowRed",
+        "description": "color table"
+    },
+    "WhViBlGrYeOrRe": {
+        "prefix": "WhViBlGrYeOrRe",
+        "body": "WhViBlGrYeOrRe",
+        "description": "color table"
+    },
+    "WhViBlGrYeOrReWh": {
+        "prefix": "WhViBlGrYeOrReWh",
+        "body": "WhViBlGrYeOrReWh",
+        "description": "color table"
+    },
+    "amwg": {
+        "prefix": "amwg",
+        "body": "amwg",
+        "description": "color table"
+    },
+    "BlAqGrWh2YeOrReVi22": {
+        "prefix": "BlAqGrWh2YeOrReVi22",
+        "body": "BlAqGrWh2YeOrReVi22",
+        "description": "color table"
+    },
+    "cosam": {
+        "prefix": "cosam",
+        "body": "cosam",
+        "description": "color table"
+    },
+    "cosam12": {
+        "prefix": "cosam12",
+        "body": "cosam12",
+        "description": "color table"
+    },
+    "cyclic": {
+        "prefix": "cyclic",
+        "body": "cyclic",
+        "description": "color table"
+    },
+    "GHRSST_anomaly": {
+        "prefix": "GHRSST_anomaly",
+        "body": "GHRSST_anomaly",
+        "description": "color table"
+    },
+    "GMT_wysiwyg": {
+        "prefix": "GMT_wysiwyg",
+        "body": "GMT_wysiwyg",
+        "description": "color table"
+    },
+    "grads_rainbow": {
+        "prefix": "grads_rainbow",
+        "body": "grads_rainbow",
+        "description": "color table"
+    },
+    "gui_default": {
+        "prefix": "gui_default",
+        "body": "gui_default",
+        "description": "color table"
+    },
+    "prcp_1": {
+        "prefix": "prcp_1",
+        "body": "prcp_1",
+        "description": "color table"
+    },
+    "prcp_2": {
+        "prefix": "prcp_2",
+        "body": "prcp_2",
+        "description": "color table"
+    },
+    "prcp_3": {
+        "prefix": "prcp_3",
+        "body": "prcp_3",
+        "description": "color table"
+    },
+    "radar": {
+        "prefix": "radar",
+        "body": "radar",
+        "description": "color table"
+    },
+    "radar_1": {
+        "prefix": "radar_1",
+        "body": "radar_1",
+        "description": "color table"
+    },
+    "seaice_1": {
+        "prefix": "seaice_1",
+        "body": "seaice_1",
+        "description": "color table"
+    },
+    "seaice_2": {
+        "prefix": "seaice_2",
+        "body": "seaice_2",
+        "description": "color table"
+    },
+    "so4_21": {
+        "prefix": "so4_21",
+        "body": "so4_21",
+        "description": "color table"
+    },
+    "so4_23": {
+        "prefix": "so4_23",
+        "body": "so4_23",
+        "description": "color table"
+    },
+    "wgne15": {
+        "prefix": "wgne15",
+        "body": "wgne15",
+        "description": "color table"
+    },
+    "cmocean_deep": {
+        "prefix": "cmocean_deep",
+        "body": "cmocean_deep",
+        "description": "color table"
+    },
+    "cmp_haxby": {
+        "prefix": "cmp_haxby",
+        "body": "cmp_haxby",
+        "description": "color table"
+    },
+    "GMT_drywet": {
+        "prefix": "GMT_drywet",
+        "body": "GMT_drywet",
+        "description": "color table"
+    },
+    "GMT_globe": {
+        "prefix": "GMT_globe",
+        "body": "GMT_globe",
+        "description": "color table"
+    },
+    "GMT_haxby": {
+        "prefix": "GMT_haxby",
+        "body": "GMT_haxby",
+        "description": "color table"
+    },
+    "GMT_nighttime": {
+        "prefix": "GMT_nighttime",
+        "body": "GMT_nighttime",
+        "description": "color table"
+    },
+    "GMT_ocean": {
+        "prefix": "GMT_ocean",
+        "body": "GMT_ocean",
+        "description": "color table"
+    },
+    "GMT_relief": {
+        "prefix": "GMT_relief",
+        "body": "GMT_relief",
+        "description": "color table"
+    },
+    "GMT_relief_oceanonly": {
+        "prefix": "GMT_relief_oceanonly",
+        "body": "GMT_relief_oceanonly",
+        "description": "color table"
+    },
+    "GMT_topo": {
+        "prefix": "GMT_topo",
+        "body": "GMT_topo",
+        "description": "color table"
+    },
+    "MPL_BrBG": {
+        "prefix": "MPL_BrBG",
+        "body": "MPL_BrBG",
+        "description": "color table"
+    },
+    "MPL_gist_earth": {
+        "prefix": "MPL_gist_earth",
+        "body": "MPL_gist_earth",
+        "description": "color table"
+    },
+    "MPL_ocean": {
+        "prefix": "MPL_ocean",
+        "body": "MPL_ocean",
+        "description": "color table"
+    },
+    "MPL_terrain": {
+        "prefix": "MPL_terrain",
+        "body": "MPL_terrain",
+        "description": "color table"
+    },
+    "NCV_gebco": {
+        "prefix": "NCV_gebco",
+        "body": "NCV_gebco",
+        "description": "color table"
+    },
+    "OceanLakeLandSnow": {
+        "prefix": "OceanLakeLandSnow",
+        "body": "OceanLakeLandSnow",
+        "description": "color table"
+    },
+    "topo_15lev": {
+        "prefix": "topo_15lev",
+        "body": "topo_15lev",
+        "description": "color table"
+    },
+    "cmocean_algae": {
+        "prefix": "cmocean_algae",
+        "body": "cmocean_algae",
+        "description": "color table"
+    },
+    "cmocean_amp": {
+        "prefix": "cmocean_amp",
+        "body": "cmocean_amp",
+        "description": "color table"
+    },
+    "cmocean_balance": {
+        "prefix": "cmocean_balance",
+        "body": "cmocean_balance",
+        "description": "color table"
+    },
+    "cmocean_curl": {
+        "prefix": "cmocean_curl",
+        "body": "cmocean_curl",
+        "description": "color table"
+    },
+    "cmocean_delta": {
+        "prefix": "cmocean_delta",
+        "body": "cmocean_delta",
+        "description": "color table"
+    },
+    "cmocean_dense": {
+        "prefix": "cmocean_dense",
+        "body": "cmocean_dense",
+        "description": "color table"
+    },
+    "cmocean_gray": {
+        "prefix": "cmocean_gray",
+        "body": "cmocean_gray",
+        "description": "color table"
+    },
+    "cmocean_haline": {
+        "prefix": "cmocean_haline",
+        "body": "cmocean_haline",
+        "description": "color table"
+    },
+    "cmocean_ice": {
+        "prefix": "cmocean_ice",
+        "body": "cmocean_ice",
+        "description": "color table"
+    },
+    "cmocean_matter": {
+        "prefix": "cmocean_matter",
+        "body": "cmocean_matter",
+        "description": "color table"
+    },
+    "cmocean_oxy": {
+        "prefix": "cmocean_oxy",
+        "body": "cmocean_oxy",
+        "description": "color table"
+    },
+    "cmocean_phase": {
+        "prefix": "cmocean_phase",
+        "body": "cmocean_phase",
+        "description": "color table"
+    },
+    "cmocean_solar": {
+        "prefix": "cmocean_solar",
+        "body": "cmocean_solar",
+        "description": "color table"
+    },
+    "cmocean_speed": {
+        "prefix": "cmocean_speed",
+        "body": "cmocean_speed",
+        "description": "color table"
+    },
+    "cmocean_tempo": {
+        "prefix": "cmocean_tempo",
+        "body": "cmocean_tempo",
+        "description": "color table"
+    },
+    "cmocean_thermal": {
+        "prefix": "cmocean_thermal",
+        "body": "cmocean_thermal",
+        "description": "color table"
+    },
+    "cmocean_turbid": {
+        "prefix": "cmocean_turbid",
+        "body": "cmocean_turbid",
+        "description": "color table"
+    },
+    "BlueDarkOrange18": {
+        "prefix": "BlueDarkOrange18",
+        "body": "BlueDarkOrange18",
+        "description": "color table"
+    },
+    "BlueDarkRed18": {
+        "prefix": "BlueDarkRed18",
+        "body": "BlueDarkRed18",
+        "description": "color table"
+    },
+    "BlueGreen14": {
+        "prefix": "BlueGreen14",
+        "body": "BlueGreen14",
+        "description": "color table"
+    },
+    "BrownBlue12": {
+        "prefix": "BrownBlue12",
+        "body": "BrownBlue12",
+        "description": "color table"
+    },
+    "Cat12": {
+        "prefix": "Cat12",
+        "body": "Cat12",
+        "description": "color table"
+    },
+    "cb_9step": {
+        "prefix": "cb_9step",
+        "body": "cb_9step",
+        "description": "color table"
+    },
+    "cb_rainbow": {
+        "prefix": "cb_rainbow",
+        "body": "cb_rainbow",
+        "description": "color table"
+    },
+    "cb_rainbow_inv": {
+        "prefix": "cb_rainbow_inv",
+        "body": "cb_rainbow_inv",
+        "description": "color table"
+    },
+    "CBR_coldhot": {
+        "prefix": "CBR_coldhot",
+        "body": "CBR_coldhot",
+        "description": "color table"
+    },
+    "CBR_drywet": {
+        "prefix": "CBR_drywet",
+        "body": "CBR_drywet",
+        "description": "color table"
+    },
+    "CBR_wet": {
+        "prefix": "CBR_wet",
+        "body": "CBR_wet",
+        "description": "color table"
+    },
+    "cividis": {
+        "prefix": "cividis",
+        "body": "cividis",
+        "description": "color table"
+    },
+    "GreenMagenta16": {
+        "prefix": "GreenMagenta16",
+        "body": "GreenMagenta16",
+        "description": "color table"
+    },
+    "posneg_1": {
+        "prefix": "posneg_1",
+        "body": "posneg_1",
+        "description": "color table"
+    },
+    "posneg_2": {
+        "prefix": "posneg_2",
+        "body": "posneg_2",
+        "description": "color table"
+    },
+    "srip_reanalysis": {
+        "prefix": "srip_reanalysis",
+        "body": "srip_reanalysis",
+        "description": "color table"
+    },
+    "StepSeq25": {
+        "prefix": "StepSeq25",
+        "body": "StepSeq25",
+        "description": "color table"
+    },
+    "hotcold_18lev": {
+        "prefix": "hotcold_18lev",
+        "body": "hotcold_18lev",
+        "description": "color table"
+    },
+    "hotcolr_19lev": {
+        "prefix": "hotcolr_19lev",
+        "body": "hotcolr_19lev",
+        "description": "color table"
+    },
+    "mch_default": {
+        "prefix": "mch_default",
+        "body": "mch_default",
+        "description": "color table"
+    },
+    "perc2_9lev": {
+        "prefix": "perc2_9lev",
+        "body": "perc2_9lev",
+        "description": "color table"
+    },
+    "percent_11lev": {
+        "prefix": "percent_11lev",
+        "body": "percent_11lev",
+        "description": "color table"
+    },
+    "precip2_15lev": {
+        "prefix": "precip2_15lev",
+        "body": "precip2_15lev",
+        "description": "color table"
+    },
+    "precip2_17lev": {
+        "prefix": "precip2_17lev",
+        "body": "precip2_17lev",
+        "description": "color table"
+    },
+    "precip3_16lev": {
+        "prefix": "precip3_16lev",
+        "body": "precip3_16lev",
+        "description": "color table"
+    },
+    "precip4_11lev": {
+        "prefix": "precip4_11lev",
+        "body": "precip4_11lev",
+        "description": "color table"
+    },
+    "precip4_diff_19lev": {
+        "prefix": "precip4_diff_19lev",
+        "body": "precip4_diff_19lev",
+        "description": "color table"
+    },
+    "precip_11lev": {
+        "prefix": "precip_11lev",
+        "body": "precip_11lev",
+        "description": "color table"
+    },
+    "precip_diff_12lev": {
+        "prefix": "precip_diff_12lev",
+        "body": "precip_diff_12lev",
+        "description": "color table"
+    },
+    "precip_diff_1lev": {
+        "prefix": "precip_diff_1lev",
+        "body": "precip_diff_1lev",
+        "description": "color table"
+    },
+    "rh_19lev": {
+        "prefix": "rh_19lev",
+        "body": "rh_19lev",
+        "description": "color table"
+    },
+    "spread_15lev": {
+        "prefix": "spread_15lev",
+        "body": "spread_15lev",
+        "description": "color table"
+    },
+    "sunshine_9lev": {
+        "prefix": "sunshine_9lev",
+        "body": "sunshine_9lev",
+        "description": "color table"
+    },
+    "sunshine_diff_12lev": {
+        "prefix": "sunshine_diff_12lev",
+        "body": "sunshine_diff_12lev",
+        "description": "color table"
+    },
+    "t2m_29lev": {
+        "prefix": "t2m_29lev",
+        "body": "t2m_29lev",
+        "description": "color table"
+    },
+    "temp_19lev": {
+        "prefix": "temp_19lev",
+        "body": "temp_19lev",
+        "description": "color table"
+    },
+    "temp_diff_18lev": {
+        "prefix": "temp_diff_18lev",
+        "body": "temp_diff_18lev",
+        "description": "color table"
+    },
+    "temp_diff_1lev": {
+        "prefix": "temp_diff_1lev",
+        "body": "temp_diff_1lev",
+        "description": "color table"
+    },
+    "wind_17lev": {
+        "prefix": "wind_17lev",
+        "body": "wind_17lev",
+        "description": "color table"
+    },
+    "BlRe": {
+        "prefix": "BlRe",
+        "body": "BlRe",
+        "description": "color table"
+    },
+    "BlueRed": {
+        "prefix": "BlueRed",
+        "body": "BlueRed",
+        "description": "color table"
+    },
+    "BlueRedGray": {
+        "prefix": "BlueRedGray",
+        "body": "BlueRedGray",
+        "description": "color table"
+    },
+    "BlWhRe": {
+        "prefix": "BlWhRe",
+        "body": "BlWhRe",
+        "description": "color table"
+    },
+    "cmp_b2r": {
+        "prefix": "cmp_b2r",
+        "body": "cmp_b2r",
+        "description": "color table"
+    },
+    "GMT_polar": {
+        "prefix": "GMT_polar",
+        "body": "GMT_polar",
+        "description": "color table"
+    },
+    "GMT_split": {
+        "prefix": "GMT_split",
+        "body": "GMT_split",
+        "description": "color table"
+    },
+    "hotres": {
+        "prefix": "hotres",
+        "body": "hotres",
+        "description": "color table"
+    },
+    "MPL_bwr": {
+        "prefix": "MPL_bwr",
+        "body": "MPL_bwr",
+        "description": "color table"
+    },
+    "MPL_coolwarm": {
+        "prefix": "MPL_coolwarm",
+        "body": "MPL_coolwarm",
+        "description": "color table"
+    },
+    "MPL_RdBu": {
+        "prefix": "MPL_RdBu",
+        "body": "MPL_RdBu",
+        "description": "color table"
+    },
+    "MPL_seismic": {
+        "prefix": "MPL_seismic",
+        "body": "MPL_seismic",
+        "description": "color table"
+    },
+    "NCV_blu_red": {
+        "prefix": "NCV_blu_red",
+        "body": "NCV_blu_red",
+        "description": "color table"
+    },
+    "NCV_blue_red": {
+        "prefix": "NCV_blue_red",
+        "body": "NCV_blue_red",
+        "description": "color table"
+    },
+    "WhBlReWh": {
+        "prefix": "WhBlReWh",
+        "body": "WhBlReWh",
+        "description": "color table"
+    },
+    "GMT_gebco": {
+        "prefix": "GMT_gebco",
+        "body": "GMT_gebco",
+        "description": "color table"
+    },
+    "GSFC_landsat_udf_density": {
+        "prefix": "GSFC_landsat_udf_density",
+        "body": "GSFC_landsat_udf_density",
+        "description": "color table"
+    },
+    "MPL_BuGn": {
+        "prefix": "MPL_BuGn",
+        "body": "MPL_BuGn",
+        "description": "color table"
+    },
+    "MPL_GnBu": {
+        "prefix": "MPL_GnBu",
+        "body": "MPL_GnBu",
+        "description": "color table"
+    },
+    "MPL_PuBuGn": {
+        "prefix": "MPL_PuBuGn",
+        "body": "MPL_PuBuGn",
+        "description": "color table"
+    },
+    "MPL_viridis": {
+        "prefix": "MPL_viridis",
+        "body": "MPL_viridis",
+        "description": "color table"
+    },
+    "MPL_winter": {
+        "prefix": "MPL_winter",
+        "body": "MPL_winter",
+        "description": "color table"
+    },
+    "MPL_YlGnBu": {
+        "prefix": "MPL_YlGnBu",
+        "body": "MPL_YlGnBu",
+        "description": "color table"
+    },
+    "GMT_hot": {
+        "prefix": "GMT_hot",
+        "body": "GMT_hot",
+        "description": "color table"
+    },
+    "matlab_hot": {
+        "prefix": "matlab_hot",
+        "body": "matlab_hot",
+        "description": "color table"
+    },
+    "MPL_afmhot": {
+        "prefix": "MPL_afmhot",
+        "body": "MPL_afmhot",
+        "description": "color table"
+    },
+    "MPL_autumn": {
+        "prefix": "MPL_autumn",
+        "body": "MPL_autumn",
+        "description": "color table"
+    },
+    "MPL_gist_heat": {
+        "prefix": "MPL_gist_heat",
+        "body": "MPL_gist_heat",
+        "description": "color table"
+    },
+    "MPL_hot": {
+        "prefix": "MPL_hot",
+        "body": "MPL_hot",
+        "description": "color table"
+    },
+    "MPL_Oranges": {
+        "prefix": "MPL_Oranges",
+        "body": "MPL_Oranges",
+        "description": "color table"
+    },
+    "MPL_OrRd": {
+        "prefix": "MPL_OrRd",
+        "body": "MPL_OrRd",
+        "description": "color table"
+    },
+    "MPL_Reds": {
+        "prefix": "MPL_Reds",
+        "body": "MPL_Reds",
+        "description": "color table"
+    },
+    "MPL_YlOrBr": {
+        "prefix": "MPL_YlOrBr",
+        "body": "MPL_YlOrBr",
+        "description": "color table"
+    },
+    "MPL_YlOrRd": {
+        "prefix": "MPL_YlOrRd",
+        "body": "MPL_YlOrRd",
+        "description": "color table"
+    },
+    "WhiteYellowOrangeRed": {
+        "prefix": "WhiteYellowOrangeRed",
+        "body": "WhiteYellowOrangeRed",
+        "description": "color table"
+    },
+    "drought_severity": {
+        "prefix": "drought_severity",
+        "body": "drought_severity",
+        "description": "color table"
+    },
+    "GMT_red2green": {
+        "prefix": "GMT_red2green",
+        "body": "GMT_red2green",
+        "description": "color table"
+    },
+    "helix1": {
+        "prefix": "helix1",
+        "body": "helix1",
+        "description": "color table"
+    },
+    "MPL_RdYlGn": {
+        "prefix": "MPL_RdYlGn",
+        "body": "MPL_RdYlGn",
+        "description": "color table"
+    },
+    "SVG_fs2006": {
+        "prefix": "SVG_fs2006",
+        "body": "SVG_fs2006",
+        "description": "color table"
+    },
+    "GreenYellow": {
+        "prefix": "GreenYellow",
+        "body": "GreenYellow",
+        "description": "color table"
+    },
+    "MPL_summer": {
+        "prefix": "MPL_summer",
+        "body": "MPL_summer",
+        "description": "color table"
+    },
+    "MPL_YlGn": {
+        "prefix": "MPL_YlGn",
+        "body": "MPL_YlGn",
+        "description": "color table"
+    },
+    "MPL_gnuplot": {
+        "prefix": "MPL_gnuplot",
+        "body": "MPL_gnuplot",
+        "description": "color table"
+    },
+    "MPL_PuRd": {
+        "prefix": "MPL_PuRd",
+        "body": "MPL_PuRd",
+        "description": "color table"
+    },
+    "MPL_RdPu": {
+        "prefix": "MPL_RdPu",
+        "body": "MPL_RdPu",
+        "description": "color table"
+    },
+    "GMT_cool": {
+        "prefix": "GMT_cool",
+        "body": "GMT_cool",
+        "description": "color table"
+    },
+    "MPL_cool": {
+        "prefix": "MPL_cool",
+        "body": "MPL_cool",
+        "description": "color table"
+    },
+    "MPL_PRGn": {
+        "prefix": "MPL_PRGn",
+        "body": "MPL_PRGn",
+        "description": "color table"
+    },
+    "GMT_copper": {
+        "prefix": "GMT_copper",
+        "body": "GMT_copper",
+        "description": "color table"
+    },
+    "MPL_copper": {
+        "prefix": "MPL_copper",
+        "body": "MPL_copper",
+        "description": "color table"
+    },
+    "MPL_pink": {
+        "prefix": "MPL_pink",
+        "body": "MPL_pink",
+        "description": "color table"
+    },
+    "MPL_s3pcpn": {
+        "prefix": "MPL_s3pcpn",
+        "body": "MPL_s3pcpn",
+        "description": "color table"
+    },
+    "SVG_bhw3_22": {
+        "prefix": "SVG_bhw3_22",
+        "body": "SVG_bhw3_22",
+        "description": "color table"
+    },
+    "SVG_es_landscape_79": {
+        "prefix": "SVG_es_landscape_79",
+        "body": "SVG_es_landscape_79",
+        "description": "color table"
+    },
+    "amwg_blueyellowred": {
+        "prefix": "amwg_blueyellowred",
+        "body": "amwg_blueyellowred",
+        "description": "color table"
+    },
+    "BlueWhiteOrangeRed": {
+        "prefix": "BlueWhiteOrangeRed",
+        "body": "BlueWhiteOrangeRed",
+        "description": "color table"
+    },
+    "BlueYellowRed": {
+        "prefix": "BlueYellowRed",
+        "body": "BlueYellowRed",
+        "description": "color table"
+    },
+    "cmp_flux": {
+        "prefix": "cmp_flux",
+        "body": "cmp_flux",
+        "description": "color table"
+    },
+    "GMT_jet": {
+        "prefix": "GMT_jet",
+        "body": "GMT_jet",
+        "description": "color table"
+    },
+    "GMT_no_green": {
+        "prefix": "GMT_no_green",
+        "body": "GMT_no_green",
+        "description": "color table"
+    },
+    "GMT_panoply": {
+        "prefix": "GMT_panoply",
+        "body": "GMT_panoply",
+        "description": "color table"
+    },
+    "MPL_RdYlBu": {
+        "prefix": "MPL_RdYlBu",
+        "body": "MPL_RdYlBu",
+        "description": "color table"
+    },
+    "ncl_default": {
+        "prefix": "ncl_default",
+        "body": "ncl_default",
+        "description": "color table"
+    },
+    "nrl_sirkes": {
+        "prefix": "nrl_sirkes",
+        "body": "nrl_sirkes",
+        "description": "color table"
+    },
+    "nrl_sirkes_nowhite": {
+        "prefix": "nrl_sirkes_nowhite",
+        "body": "nrl_sirkes_nowhite",
+        "description": "color table"
+    },
+    "UKM_hadcrut": {
+        "prefix": "UKM_hadcrut",
+        "body": "UKM_hadcrut",
+        "description": "color table"
+    },
+    "MPL_Blues": {
+        "prefix": "MPL_Blues",
+        "body": "MPL_Blues",
+        "description": "color table"
+    },
+    "MPL_PuBu": {
+        "prefix": "MPL_PuBu",
+        "body": "MPL_PuBu",
+        "description": "color table"
+    },
+    "WhiteBlue": {
+        "prefix": "WhiteBlue",
+        "body": "WhiteBlue",
+        "description": "color table"
+    },
+    "MPL_BuPu": {
+        "prefix": "MPL_BuPu",
+        "body": "MPL_BuPu",
+        "description": "color table"
+    },
+    "MPL_Purples": {
+        "prefix": "MPL_Purples",
+        "body": "MPL_Purples",
+        "description": "color table"
+    },
+    "MPL_Greens": {
+        "prefix": "MPL_Greens",
+        "body": "MPL_Greens",
+        "description": "color table"
+    },
+    "WhiteGreen": {
+        "prefix": "WhiteGreen",
+        "body": "WhiteGreen",
+        "description": "color table"
+    },
+    "GMT_gray": {
+        "prefix": "GMT_gray",
+        "body": "GMT_gray",
+        "description": "color table"
+    },
+    "GrayWhiteGray": {
+        "prefix": "GrayWhiteGray",
+        "body": "GrayWhiteGray",
+        "description": "color table"
+    },
+    "gscyclic": {
+        "prefix": "gscyclic",
+        "body": "gscyclic",
+        "description": "color table"
+    },
+    "gsdtol": {
+        "prefix": "gsdtol",
+        "body": "gsdtol",
+        "description": "color table"
+    },
+    "gsltod": {
+        "prefix": "gsltod",
+        "body": "gsltod",
+        "description": "color table"
+    },
+    "MPL_gist_gray": {
+        "prefix": "MPL_gist_gray",
+        "body": "MPL_gist_gray",
+        "description": "color table"
+    },
+    "MPL_gist_yarg": {
+        "prefix": "MPL_gist_yarg",
+        "body": "MPL_gist_yarg",
+        "description": "color table"
+    },
+    "MPL_Greys": {
+        "prefix": "MPL_Greys",
+        "body": "MPL_Greys",
+        "description": "color table"
+    },
+    "MPL_RdGy": {
+        "prefix": "MPL_RdGy",
+        "body": "MPL_RdGy",
+        "description": "color table"
+    },
+    "wxpEnIR": {
+        "prefix": "wxpEnIR",
+        "body": "wxpEnIR",
+        "description": "color table"
+    },
+    "3gauss": {
+        "prefix": "3gauss",
+        "body": "3gauss",
+        "description": "color table"
+    },
+    "3saw": {
+        "prefix": "3saw",
+        "body": "3saw",
+        "description": "color table"
+    },
+    "detail": {
+        "prefix": "detail",
+        "body": "detail",
+        "description": "color table"
+    },
+    "extrema": {
+        "prefix": "extrema",
+        "body": "extrema",
+        "description": "color table"
+    },
+    "matlab_lines": {
+        "prefix": "matlab_lines",
+        "body": "matlab_lines",
+        "description": "color table"
+    },
+    "MPL_StepSeq": {
+        "prefix": "MPL_StepSeq",
+        "body": "MPL_StepSeq",
+        "description": "color table"
+    },
+    "NCV_banded": {
+        "prefix": "NCV_banded",
+        "body": "NCV_banded",
+        "description": "color table"
+    },
+    "NCV_manga": {
+        "prefix": "NCV_manga",
+        "body": "NCV_manga",
+        "description": "color table"
+    },
+    "NCV_roullet": {
+        "prefix": "NCV_roullet",
+        "body": "NCV_roullet",
+        "description": "color table"
+    },
+    "psgcap": {
+        "prefix": "psgcap",
+        "body": "psgcap",
+        "description": "color table"
+    },
+    "SVG_Gallet13": {
+        "prefix": "SVG_Gallet13",
+        "body": "SVG_Gallet13",
+        "description": "color table"
+    },
+    "SVG_Lindaa06": {
+        "prefix": "SVG_Lindaa06",
+        "body": "SVG_Lindaa06",
+        "description": "color table"
+    },
+    "SVG_Lindaa07": {
+        "prefix": "SVG_Lindaa07",
+        "body": "SVG_Lindaa07",
+        "description": "color table"
+    },
+    "uniform": {
+        "prefix": "uniform",
+        "body": "uniform",
+        "description": "color table"
+    },
+    "CBR_set3": {
+        "prefix": "CBR_set3",
+        "body": "CBR_set3",
+        "description": "color table"
+    },
+    "MPL_Accent": {
+        "prefix": "MPL_Accent",
+        "body": "MPL_Accent",
+        "description": "color table"
+    },
+    "MPL_Dark2": {
+        "prefix": "MPL_Dark2",
+        "body": "MPL_Dark2",
+        "description": "color table"
+    },
+    "MPL_Paired": {
+        "prefix": "MPL_Paired",
+        "body": "MPL_Paired",
+        "description": "color table"
+    },
+    "MPL_Pastel1": {
+        "prefix": "MPL_Pastel1",
+        "body": "MPL_Pastel1",
+        "description": "color table"
+    },
+    "MPL_Pastel2": {
+        "prefix": "MPL_Pastel2",
+        "body": "MPL_Pastel2",
+        "description": "color table"
+    },
+    "MPL_Set1": {
+        "prefix": "MPL_Set1",
+        "body": "MPL_Set1",
+        "description": "color table"
+    },
+    "MPL_Set2": {
+        "prefix": "MPL_Set2",
+        "body": "MPL_Set2",
+        "description": "color table"
+    },
+    "MPL_Set3": {
+        "prefix": "MPL_Set3",
+        "body": "MPL_Set3",
+        "description": "color table"
+    },
+    "SVG_feb_sunrise": {
+        "prefix": "SVG_feb_sunrise",
+        "body": "SVG_feb_sunrise",
+        "description": "color table"
+    },
+    "SVG_foggy_sunrise": {
+        "prefix": "SVG_foggy_sunrise",
+        "body": "SVG_foggy_sunrise",
+        "description": "color table"
+    },
+    "circular_0": {
+        "prefix": "circular_0",
+        "body": "circular_0",
+        "description": "color table"
+    },
+    "circular_1": {
+        "prefix": "circular_1",
+        "body": "circular_1",
+        "description": "color table"
+    },
+    "circular_2": {
+        "prefix": "circular_2",
+        "body": "circular_2",
+        "description": "color table"
+    },
+    "default": {
+        "prefix": "default",
+        "body": "default",
+        "description": "color table"
+    },
+    "helix": {
+        "prefix": "helix",
+        "body": "helix",
+        "description": "color table"
+    },
+    "hlu_default": {
+        "prefix": "hlu_default",
+        "body": "hlu_default",
+        "description": "color table"
+    },
+    "lithology": {
+        "prefix": "lithology",
+        "body": "lithology",
+        "description": "color table"
+    },
+    "thelix": {
+        "prefix": "thelix",
+        "body": "thelix",
+        "description": "color table"
+    },
+    "NEO_div_vegetation_a": {
+        "prefix": "NEO_div_vegetation_a",
+        "body": "NEO_div_vegetation_a",
+        "description": "color table"
+    },
+    "NEO_div_vegetation_b": {
+        "prefix": "NEO_div_vegetation_b",
+        "body": "NEO_div_vegetation_b",
+        "description": "color table"
+    },
+    "NEO_div_vegetation_c": {
+        "prefix": "NEO_div_vegetation_c",
+        "body": "NEO_div_vegetation_c",
+        "description": "color table"
+    },
+    "NEO_modis_ndvi": {
+        "prefix": "NEO_modis_ndvi",
+        "body": "NEO_modis_ndvi",
+        "description": "color table"
+    },
+    "NOC_ndvi": {
+        "prefix": "NOC_ndvi",
+        "body": "NOC_ndvi",
+        "description": "color table"
+    },
+    "vegetation_ClarkU": {
+        "prefix": "vegetation_ClarkU",
+        "body": "vegetation_ClarkU",
+        "description": "color table"
+    },
+    "vegetation_modis": {
+        "prefix": "vegetation_modis",
+        "body": "vegetation_modis",
+        "description": "color table"
+    },
+    "MPL_PiYG": {
+        "prefix": "MPL_PiYG",
+        "body": "MPL_PiYG",
+        "description": "color table"
+    },
+    "MPL_PuOr": {
+        "prefix": "MPL_PuOr",
+        "body": "MPL_PuOr",
+        "description": "color table"
+    },
+    "GMT_paired": {
+        "prefix": "GMT_paired",
+        "body": "GMT_paired",
+        "description": "color table"
+    },
+    "grads_default": {
+        "prefix": "grads_default",
+        "body": "grads_default",
+        "description": "color table"
+    },
+    "MPL_bone": {
+        "prefix": "MPL_bone",
+        "body": "MPL_bone",
+        "description": "color table"
+    },
+    "MPL_brg": {
+        "prefix": "MPL_brg",
+        "body": "MPL_brg",
+        "description": "color table"
+    },
+    "MPL_cubehelix": {
+        "prefix": "MPL_cubehelix",
+        "body": "MPL_cubehelix",
+        "description": "color table"
+    },
+    "MPL_flag": {
+        "prefix": "MPL_flag",
+        "body": "MPL_flag",
+        "description": "color table"
+    },
+    "MPL_gist_stern": {
+        "prefix": "MPL_gist_stern",
+        "body": "MPL_gist_stern",
+        "description": "color table"
+    },
+    "MPL_gnuplot2": {
+        "prefix": "MPL_gnuplot2",
+        "body": "MPL_gnuplot2",
+        "description": "color table"
+    },
+    "MPL_prism": {
+        "prefix": "MPL_prism",
+        "body": "MPL_prism",
+        "description": "color table"
+    },
+    "MPL_s3pcpn_l": {
+        "prefix": "MPL_s3pcpn_l",
+        "body": "MPL_s3pcpn_l",
+        "description": "color table"
+    },
+    "MPL_spring": {
+        "prefix": "MPL_spring",
+        "body": "MPL_spring",
+        "description": "color table"
+    },
+    "MPL_sstanom": {
+        "prefix": "MPL_sstanom",
+        "body": "MPL_sstanom",
+        "description": "color table"
+    }
+}

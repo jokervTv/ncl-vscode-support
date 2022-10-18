@@ -1,0 +1,174 @@
+{
+    "pwritx_database": {
+        "prefix": "pwritx_database",
+        "body": "pwritx_database"
+    },
+    "default": {
+        "prefix": "default",
+        "body": "default"
+    },
+    "cartographic_roman": {
+        "prefix": "cartographic_roman",
+        "body": "cartographic_roman"
+    },
+    "cartographic_greek": {
+        "prefix": "cartographic_greek",
+        "body": "cartographic_greek"
+    },
+    "simplex_roman": {
+        "prefix": "simplex_roman",
+        "body": "simplex_roman"
+    },
+    "simplex_greek": {
+        "prefix": "simplex_greek",
+        "body": "simplex_greek"
+    },
+    "simplex_script": {
+        "prefix": "simplex_script",
+        "body": "simplex_script"
+    },
+    "complex_roman": {
+        "prefix": "complex_roman",
+        "body": "complex_roman"
+    },
+    "complex_greek": {
+        "prefix": "complex_greek",
+        "body": "complex_greek"
+    },
+    "complex_script": {
+        "prefix": "complex_script",
+        "body": "complex_script"
+    },
+    "complex_italic": {
+        "prefix": "complex_italic",
+        "body": "complex_italic"
+    },
+    "complex_cyrillic": {
+        "prefix": "complex_cyrillic",
+        "body": "complex_cyrillic"
+    },
+    "duplex_roman": {
+        "prefix": "duplex_roman",
+        "body": "duplex_roman"
+    },
+    "triplex_roman": {
+        "prefix": "triplex_roman",
+        "body": "triplex_roman"
+    },
+    "triplex_italic": {
+        "prefix": "triplex_italic",
+        "body": "triplex_italic"
+    },
+    "gothic_german": {
+        "prefix": "gothic_german",
+        "body": "gothic_german"
+    },
+    "gothic_english": {
+        "prefix": "gothic_english",
+        "body": "gothic_english"
+    },
+    "gothic_italian": {
+        "prefix": "gothic_italian",
+        "body": "gothic_italian"
+    },
+    "math_symbols": {
+        "prefix": "math_symbols",
+        "body": "math_symbols"
+    },
+    "symbol_set1": {
+        "prefix": "symbol_set1",
+        "body": "symbol_set1"
+    },
+    "symbol_set2": {
+        "prefix": "symbol_set2",
+        "body": "symbol_set2"
+    },
+    "helvetica": {
+        "prefix": "helvetica",
+        "body": "helvetica"
+    },
+    "helvetica-bold": {
+        "prefix": "helvetica-bold",
+        "body": "helvetica-bold"
+    },
+    "times-roman": {
+        "prefix": "times-roman",
+        "body": "times-roman"
+    },
+    "times-bold": {
+        "prefix": "times-bold",
+        "body": "times-bold"
+    },
+    "courier": {
+        "prefix": "courier",
+        "body": "courier"
+    },
+    "courier-bold": {
+        "prefix": "courier-bold",
+        "body": "courier-bold"
+    },
+    "greek": {
+        "prefix": "greek",
+        "body": "greek"
+    },
+    "math-symbols": {
+        "prefix": "math-symbols",
+        "body": "math-symbols"
+    },
+    "text-symbols": {
+        "prefix": "text-symbols",
+        "body": "text-symbols"
+    },
+    "weather1": {
+        "prefix": "weather1",
+        "body": "weather1"
+    },
+    "weather2": {
+        "prefix": "weather2",
+        "body": "weather2"
+    },
+    "o_helvetica": {
+        "prefix": "o_helvetica",
+        "body": "o_helvetica"
+    },
+    "o_helvetica-bold": {
+        "prefix": "o_helvetica-bold",
+        "body": "o_helvetica-bold"
+    },
+    "o_times-roman": {
+        "prefix": "o_times-roman",
+        "body": "o_times-roman"
+    },
+    "o_times-bold": {
+        "prefix": "o_times-bold",
+        "body": "o_times-bold"
+    },
+    "o_courler": {
+        "prefix": "o_courler",
+        "body": "o_courler"
+    },
+    "o_courier-bold": {
+        "prefix": "o_courier-bold",
+        "body": "o_courier-bold"
+    },
+    "o_greek": {
+        "prefix": "o_greek",
+        "body": "o_greek"
+    },
+    "o_math-symbols": {
+        "prefix": "o_math-symbols",
+        "body": "o_math-symbols"
+    },
+    "o_text-symbols": {
+        "prefix": "o_text-symbols",
+        "body": "o_text-symbols"
+    },
+    "o_weatherl": {
+        "prefix": "o_weatherl",
+        "body": "o_weatherl"
+    },
+    "o_weather2": {
+        "prefix": "o_weather2",
+        "body": "o_weather2"
+    }
+}
