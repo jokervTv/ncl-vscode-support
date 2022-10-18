@@ -15,6 +15,8 @@ more information [here](http://www.ncl.ucar.edu/Document/Pivot_to_Python/)
 
 ![Syntax Highlighting](./images/SyntaxHighlighting.png "Syntax Highlighting")
 
+The final display effect is affected by the theme, try more different and find your favorite theme. I using `Solarized` theme, which is shown above.
+
 ### Code Snippets
 
 ![Code Snippets](./images/CodeSnippets.gif "Code Snippets")
@@ -23,14 +25,10 @@ more information [here](http://www.ncl.ucar.edu/Document/Pivot_to_Python/)
 
 ![Code Completion Proposals](./images/CodeCompletion.gif "Code Completion Proposals")
 
-## Todo
-
-- [ ] syntax highlighting
-
 ## Known Issues
 
 Not yet, if you find any, please tell me.
 
 -----------------------------------------------------------------------------------------------------------
 
-**Enjoy!**
+**Enjoy it!**
