@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.7.0
+
+- update the snippets
+- repair grammar, improved code colors
+- add more bracket support
+
 ## 1.6.0 - update to NCL 6.6.2
 
 re-crawl all the functions and attributes
