@@ -15,7 +15,7 @@ more information [here](http://www.ncl.ucar.edu/Document/Pivot_to_Python/)
 
 ![Syntax Highlighting](./images/SyntaxHighlighting.png "Syntax Highlighting")
 
-The final display effect is affected by the theme, try more different and find your favorite theme. I using `Solarized` theme, which is shown above.
+The final display effect is affected by the theme, try more different and find your favorite theme. I using `Ayu` theme, which is shown above.
 
 ### Code Snippets
 
